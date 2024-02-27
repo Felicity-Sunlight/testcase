@@ -1,40 +1,40 @@
 [ {
-  "uid" : "7c7b1efa8d8c9c83",
-  "name" : "test_mysql_select",
-  "time" : {
-    "start" : 1709019444046,
-    "stop" : 1709019444054,
-    "duration" : 8
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "26d3d3defd988e4f",
-  "name" : "test_mysql_delete",
-  "time" : {
-    "start" : 1709019444010,
-    "stop" : 1709019444042,
-    "duration" : 32
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6e16c4c664e88f10",
-  "name" : "test_mysql_insert_into",
-  "time" : {
-    "start" : 1709019443916,
-    "stop" : 1709019443974,
-    "duration" : 58
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e61b5943fc2370b2",
+  "uid" : "aba305463c991f6",
   "name" : "test_mysql_connect",
   "time" : {
-    "start" : 1709019443858,
-    "stop" : 1709019443885,
-    "duration" : 27
+    "start" : 1709020390503,
+    "stop" : 1709020390516,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d21564a2b6d6f6a",
+  "name" : "test_mysql_insert_into",
+  "time" : {
+    "start" : 1709020390538,
+    "stop" : 1709020390559,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1258ef10a4c21624",
+  "name" : "test_mysql_select",
+  "time" : {
+    "start" : 1709020390609,
+    "stop" : 1709020390631,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4eb4ff2f87dd7a82",
+  "name" : "test_mysql_delete",
+  "time" : {
+    "start" : 1709020390583,
+    "stop" : 1709020390606,
+    "duration" : 23
   },
   "status" : "passed",
   "severity" : "normal"

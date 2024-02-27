@@ -1,0 +1,1 @@
+{"uuid": "42ffcf8a-71e6-464c-9cf1-5a8c64616c3c", "children": ["bc98bc4e-c905-4d28-91d5-54994d659ddc"], "befores": [{"name": "test_select_mysql", "status": "passed", "start": 1709020390562, "stop": 1709020390583}], "afters": [{"name": "test_select_mysql::0", "status": "passed", "start": 1709020390606, "stop": 1709020390607}], "start": 1709020390562, "stop": 1709020390607}

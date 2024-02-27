@@ -5,13 +5,13 @@
     "name" : "test_mysql_connect",
     "children" : [ {
       "name" : "test_mysql_connect",
-      "uid" : "e61b5943fc2370b2",
+      "uid" : "aba305463c991f6",
       "parentUid" : "9685a5365366915af2f8ef663e8e3823",
       "status" : "passed",
       "time" : {
-        "start" : 1709019443858,
-        "stop" : 1709019443885,
-        "duration" : 27
+        "start" : 1709020390503,
+        "stop" : 1709020390516,
+        "duration" : 13
       },
       "flaky" : false,
       "newFailed" : false,
@@ -22,26 +22,26 @@
     "name" : "test_mysql_insert into",
     "children" : [ {
       "name" : "test_mysql_insert_into",
-      "uid" : "6e16c4c664e88f10",
+      "uid" : "d21564a2b6d6f6a",
       "parentUid" : "02af0bb3b9d3c7f9f605dd9ab6e395f6",
       "status" : "passed",
       "time" : {
-        "start" : 1709019443916,
-        "stop" : 1709019443974,
-        "duration" : 58
+        "start" : 1709020390538,
+        "stop" : 1709020390559,
+        "duration" : 21
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "test_mysql_delete",
-      "uid" : "26d3d3defd988e4f",
+      "uid" : "4eb4ff2f87dd7a82",
       "parentUid" : "02af0bb3b9d3c7f9f605dd9ab6e395f6",
       "status" : "passed",
       "time" : {
-        "start" : 1709019444010,
-        "stop" : 1709019444042,
-        "duration" : 32
+        "start" : 1709020390583,
+        "stop" : 1709020390606,
+        "duration" : 23
       },
       "flaky" : false,
       "newFailed" : false,
@@ -52,13 +52,13 @@
     "name" : "test_mysql_select",
     "children" : [ {
       "name" : "test_mysql_select",
-      "uid" : "7c7b1efa8d8c9c83",
+      "uid" : "1258ef10a4c21624",
       "parentUid" : "b2c95d5c3ef7459f975c40bbafd83adf",
       "status" : "passed",
       "time" : {
-        "start" : 1709019444046,
-        "stop" : 1709019444054,
-        "duration" : 8
+        "start" : 1709020390609,
+        "stop" : 1709020390631,
+        "duration" : 22
       },
       "flaky" : false,
       "newFailed" : false,
