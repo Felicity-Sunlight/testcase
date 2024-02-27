@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_mysql_connect",
+    "children" : [ {
+      "name" : "test_mysql_connect",
+      "uid" : "e61b5943fc2370b2",
+      "parentUid" : "8ee8fc80dccbe900c3cfbcd4f2aef106",
+      "status" : "passed",
+      "time" : {
+        "start" : 1709019443858,
+        "stop" : 1709019443885,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8ee8fc80dccbe900c3cfbcd4f2aef106"
+  }, {
+    "name" : "test_mysql_insert into",
+    "children" : [ {
+      "name" : "TESTinsertdelete",
+      "children" : [ {
+        "name" : "test_mysql_insert_into",
+        "uid" : "6e16c4c664e88f10",
+        "parentUid" : "f98c9f89dd6d057d66ff6a66f989bbf2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709019443916,
+          "stop" : 1709019443974,
+          "duration" : 58
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mysql_delete",
+        "uid" : "26d3d3defd988e4f",
+        "parentUid" : "f98c9f89dd6d057d66ff6a66f989bbf2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709019444010,
+          "stop" : 1709019444042,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f98c9f89dd6d057d66ff6a66f989bbf2"
+    } ],
+    "uid" : "9f5750147439985c9b0709f1ba6eec35"
+  }, {
+    "name" : "test_mysql_select",
+    "children" : [ {
+      "name" : "Testpymysql",
+      "children" : [ {
+        "name" : "test_mysql_select",
+        "uid" : "7c7b1efa8d8c9c83",
+        "parentUid" : "373ea3fd241fa0191efb39bb8aebca6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709019444046,
+          "stop" : 1709019444054,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "373ea3fd241fa0191efb39bb8aebca6a"
+    } ],
+    "uid" : "15b7de582bbd7017f25d8b236a2ba9b7"
+  } ]
+}
