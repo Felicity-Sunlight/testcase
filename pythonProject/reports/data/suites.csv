@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 28 14:56:06 CST 2024","Wed Feb 28 14:56:15 CST 2024","8719","testcases.case","test_weekly","","","","test_weekly",""
+"passed","Wed Feb 28 14:56:06 CST 2024","Wed Feb 28 14:56:06 CST 2024","10","testcases.case","test_mysql_insert_into","TESTinsertdelete","","","test_mysql_delete",""
+"passed","Wed Feb 28 14:56:06 CST 2024","Wed Feb 28 14:56:06 CST 2024","10","testcases.case","test_mysql_insert_into","TESTinsertdelete","","","test_mysql_insert_into",""
+"passed","Wed Feb 28 14:56:06 CST 2024","Wed Feb 28 14:56:06 CST 2024","9","testcases.case","test_mysql_connect","","","","test_mysql_connect",""
+"passed","Wed Feb 28 14:56:06 CST 2024","Wed Feb 28 14:56:06 CST 2024","5","testcases.case","test_mysql_updata","","","","test_musql_updata",""
+"passed","Wed Feb 28 14:56:06 CST 2024","Wed Feb 28 14:56:06 CST 2024","5","testcases.case","test_mysql_select","Testpymysql","","","test_mysql_select",""

@@ -1,6 +1,17 @@
 {
   "total" : 3,
   "items" : [ {
+    "uid" : "15b7de582bbd7017f25d8b236a2ba9b7",
+    "name" : "test_mysql_select",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
     "uid" : "9f5750147439985c9b0709f1ba6eec35",
     "name" : "test_mysql_insert into",
     "statistic" : {
@@ -14,17 +25,6 @@
   }, {
     "uid" : "8ee8fc80dccbe900c3cfbcd4f2aef106",
     "name" : "test_mysql_connect",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "15b7de582bbd7017f25d8b236a2ba9b7",
-    "name" : "test_mysql_select",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

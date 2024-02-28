@@ -1,0 +1,61 @@
+[ {
+  "uid" : "a5e446b0f22cbca0",
+  "name" : "test_weekly",
+  "time" : {
+    "start" : 1709103366836,
+    "stop" : 1709103375555,
+    "duration" : 8719
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ce3fc4b4cdcd971",
+  "name" : "test_mysql_delete",
+  "time" : {
+    "start" : 1709103366806,
+    "stop" : 1709103366816,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "674b6ade3176fb9b",
+  "name" : "test_mysql_insert_into",
+  "time" : {
+    "start" : 1709103366787,
+    "stop" : 1709103366797,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d1372e3752a0ae6",
+  "name" : "test_mysql_connect",
+  "time" : {
+    "start" : 1709103366761,
+    "stop" : 1709103366770,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8043d43f6745dac3",
+  "name" : "test_musql_updata",
+  "time" : {
+    "start" : 1709103366829,
+    "stop" : 1709103366834,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c3c008851e05692",
+  "name" : "test_mysql_select",
+  "time" : {
+    "start" : 1709103366821,
+    "stop" : 1709103366826,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

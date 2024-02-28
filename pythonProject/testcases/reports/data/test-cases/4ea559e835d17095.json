@@ -1,0 +1,81 @@
+{
+  "uid" : "4ea559e835d17095",
+  "name" : "test_mysql_delete",
+  "fullName" : "test_mysql_insert into.TESTinsertdelete#test_mysql_delete",
+  "historyId" : "1e25695acb03d6909328c0a84b2c5bc1",
+  "time" : {
+    "start" : 1709019444010,
+    "stop" : 1709019444042,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_select_mysql",
+    "time" : {
+      "start" : 1709019443985,
+      "stop" : 1709019444009,
+      "duration" : 24
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "test_select_mysql::0",
+    "time" : {
+      "start" : 1709019444042,
+      "stop" : 1709019444043,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mysql_insert into"
+  }, {
+    "name" : "subSuite",
+    "value" : "TESTinsertdelete"
+  }, {
+    "name" : "host",
+    "value" : "NDC-20220218NQN"
+  }, {
+    "name" : "thread",
+    "value" : "5656-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mysql_insert into"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ea559e835d17095.json",
+  "parameterValues" : [ ]
+}

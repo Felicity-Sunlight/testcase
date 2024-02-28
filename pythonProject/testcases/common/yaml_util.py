@@ -15,4 +15,3 @@ class YamlUtil:
         with open(os.getcwd() + "/extract.yml", mode='w', encoding='utf-8') as f:
             value = yaml.dump(data=data, stream=f, allow_unicode=True)
             return value
-
