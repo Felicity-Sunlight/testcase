@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 import pymysql
 
-class Testpymysql():
+
+class TestPymysql:
 
     def test_mysql_select(self):
 

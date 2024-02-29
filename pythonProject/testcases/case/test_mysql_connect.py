@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-
 import pymysql
+
 
 def test_mysql_connect():
     # 打开数据库连接

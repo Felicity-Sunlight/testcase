@@ -3,7 +3,8 @@
 import pymysql
 import pytest
 
-def test_musql_updata():
+
+def test_mysql_update():
 
     # 打开数据库连接
     db = pymysql.connect(host='localhost',

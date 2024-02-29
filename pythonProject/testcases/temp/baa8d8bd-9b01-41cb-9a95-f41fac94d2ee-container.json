@@ -1,1 +1,0 @@
-{"uuid": "bc47b88b-1c61-4c3a-af6f-bea5ce8c3685", "children": ["8fe0f21c-8ba1-4b98-9805-846f4a95aee3"], "befores": [{"name": "test_select_mysql", "status": "passed", "start": 1709019443985, "stop": 1709019444009}], "afters": [{"name": "test_select_mysql::0", "status": "passed", "start": 1709019444042, "stop": 1709019444043}], "start": 1709019443985, "stop": 1709019444043}
